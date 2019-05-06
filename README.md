@@ -19,7 +19,7 @@ npm run build
 
 ### 组件效果如下:
 
-![](src\assets\el-select-tree.gif)
+![](https://img-blog.csdnimg.cn/20190507004538452.gif)
 
 
 
