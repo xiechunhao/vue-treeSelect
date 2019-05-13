@@ -1,0 +1,42 @@
+{
+    "msg": "成功",
+    "status": "1",
+    "data": [{
+            "id": 1,
+            "parentId": "0",
+            "level": 1,
+            "goodsTypeName": "水果类",
+            "children": [{
+
+                    "id": 2,
+                    "parentId": "1",
+                    "level": 1,
+                    "goodsTypeName": "苹果01",
+                    "children": []
+                },
+                {
+
+                    "id": 3,
+                    "parentId": "1",
+                    "level": null,
+                    "goodsTypeName": "橘子01",
+                    "children": [{
+
+                        "id": 4,
+                        "parentId": "3",
+                        "level": 1,
+                        "goodsTypeName": "大橘子",
+                        "children": []
+                    }]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "parentId": "0",
+            "level": 1,
+            "goodsTypeName": "蔬菜类",
+            "children": []
+        }
+    ]
+}
